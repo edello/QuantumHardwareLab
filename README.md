@@ -1,2 +1,5 @@
 # QuantumHardwareLab
-This is a repository for the master lab course Quantum Hardware.
+This is a repository for the master lab course Quantum Hardware for Louis Edel and Benedikt Bettin supervised by Ulrich Warring at the Albert-Ludwigs University Freiburg.
+
+# Goal of the Project
+We will be examining a single-qubit system realized through a trapped ion. Further, we want to focus on the differences in performance between a hyperfine and an optical qubit, realized through a [...] and [...] ion, respectively. The goal is then to establish the influence of outer factors, like temperature and magnetic field fluctuations on the performance and coherence times of these systems. While we would generally expect hyperfine qubits to be much more stable in this regard, it is still in our interest to hopefully find a way to qualify and/or quantify these effects. As both systems have generally very different coherence times from the beginning, we want to compare the coherence times using computation times as a point of reference. In other words, how fast and well do certain gates perform with respect to these outer factors on, e.g. the coherence time. Hopefully, this will allow us to gain a more objective view on the comparison results than just comparing certain constants, like T2, directly. 
